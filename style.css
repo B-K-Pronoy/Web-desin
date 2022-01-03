@@ -1,0 +1,14 @@
+
+
+:root{
+    --bag-color:rgb(88, 114, 88);
+    --weidth:200px;
+    --height:200px;
+}
+
+.box{
+
+   background-color: var(--bag-color);
+   height: var(--height);
+   width: var(--weidth);
+}
