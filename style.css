@@ -12,3 +12,6 @@
    height: var(--height);
    width: var(--weidth);
 }
+body{
+    background-color: green;
+}
