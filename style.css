@@ -1,4 +1,4 @@
-
+/* 
 
 :root{
     --bag-color:rgb(88, 114, 88);
@@ -20,4 +20,34 @@ body{
 }
 h3{
     background: rgb(236, 12, 124);
+} */
+/* 
+input{
+    display: flex;
+    margin: 5px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+input:hover{
+    
+} */
+
+.Blance-Section{
+    background-color: burlywood;
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 5px;
+    display: inline;
+}
+.BWidrawWith{
+    background-color: rgb(29, 175, 139);
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 5px;
 }
